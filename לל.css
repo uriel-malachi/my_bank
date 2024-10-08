@@ -1,0 +1,25 @@
+ body {
+    background-color: rgb(0, 238, 255);
+}
+ #total{
+    color: orange;
+font-size: x-large;
+}
+button{
+height: 80px;
+width: 400px;
+}
+
+ #take{
+    background-color: red;
+}
+
+ #give{
+background-color: green;
+}
+#double{
+    background-color: chocolate;
+}
+#reset{
+    background-color:slategray
+}
